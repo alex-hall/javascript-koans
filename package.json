@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/alex-hall/javascript-koans#readme",
   "devDependencies": {
+    "@types/jest": "^23.3.3",
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
   }
 }
