@@ -4,7 +4,7 @@
   "description": "Basic ES6 javascript koans",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
