@@ -1,0 +1,29 @@
+{
+  "name": "javascript-koans",
+  "version": "1.0.0",
+  "description": "Basic ES6 javascript koans",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-hall/javascript-koans.git"
+  },
+  "keywords": [
+    "koans",
+    "javascript",
+    "es6",
+    "testing",
+    "jest"
+  ],
+  "author": "Alex Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-hall/javascript-koans/issues"
+  },
+  "homepage": "https://github.com/alex-hall/javascript-koans#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
